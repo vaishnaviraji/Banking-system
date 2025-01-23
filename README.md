@@ -18,7 +18,8 @@ Relevant Information:
 * Attribute information:
 
    Input variables:
-   # bank client data:
+
+   bank client data:
    1 - age (numeric)
    2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
                                        "blue-collar","self-employed","retired","technician","services") 
@@ -28,7 +29,8 @@ Relevant Information:
    6 - balance: average yearly balance, in euros (numeric) 
    7 - housing: has housing loan? (binary: "yes","no")
    8 - loan: has personal loan? (binary: "yes","no")
-   # related with the last contact of the current campaign:
+
+  related with the last contact of the current campaign:
    9 - contact: contact communication type (categorical: "unknown","telephone","cellular") 
   10 - day: last contact day of the month (numeric)
   11 - month: last contact month of year (categorical: "jan", "feb", "mar", ..., "nov", "dec")
